@@ -117,15 +117,6 @@ Ejemplo:
 ### Changed
 - Mejora en visualización de heatmap
 ```
-
----
-
-## Comparación de Versiones
-
-Para ver las diferencias entre versiones, visita:
-- https://github.com/tu-usuario/project-novaretail/releases
-- https://github.com/tu-usuario/project-novaretail/compare/v1.0.0...main
-
 ---
 
 **Última actualización**: 2024-01-15
