@@ -281,7 +281,6 @@ v = np.sqrt(chi2 / (n * (min_dim - 1)))
 **Equipo de Crecimiento y Retención - NovaRetail+**
 - 📍 Latinoamérica
 - 📅 Cierre 2024
-- 💼 [Tu Email / LinkedIn]
 
 ---
 
@@ -314,7 +313,7 @@ copies of the Software...
 
 ## 📝 Historial de Cambios
 
-### v1.0.0 (2024)
+### v1.0.0 (2026)
 - ✅ Análisis correlacional completado
 - ✅ Visualizaciones generadas
 - ✅ Documentación finalizada
