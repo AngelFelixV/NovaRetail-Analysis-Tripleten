@@ -86,12 +86,8 @@ Dataset interno de NovaRetail+ correspondiente a 2024
 project-novaretail/
 ├── README.md                                    # Este archivo
 ├── S8_Student_Version-Project-NovaRetail.ipynb  # Notebook principal
-├── data/
+├── data/                                        # Dataset de la empresa Tripleten
 │   └── novaretail_comportamiento_clientes_2024.csv
-├── results/
-│   ├── correlation_analysis.csv
-│   ├── heatmap_correlation.png
-│   └── insights.txt
 └── requirements.txt                             # Dependencias
 ```
 
