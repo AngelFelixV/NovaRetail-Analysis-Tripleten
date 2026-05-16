@@ -207,8 +207,6 @@ Si tienes dudas sobre cómo contribuir:
 2. Crea un issue con la etiqueta `question`
 3. Contacta al equipo de mantenedores
 
-## 🙏 Agradecimientos
-
 Apreciamos tu tiempo y esfuerzo. Todas las contribuciones, sin importar el tamaño, ayudan a mejorar este proyecto.
 
-¡Gracias por ser parte de la comunidad NovaRetail+ Analytics! 🎉
+¡Gracias por s
